@@ -11364,7 +11364,7 @@ OrionLib:Init()
 
 OrionLib:MakeNotification({
     Name = "VOLTS HUB",
-    Content = "Loading Config Complete!!",
+    Content = "O CARREGAMENTO FOI CONCLUIDO, BOM JOGO!!",
     Image = "rbxassetid://119348241367191",
     Time = 5
 })
